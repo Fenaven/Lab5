@@ -1,0 +1,7 @@
+clear
+show
+execute_script add_elem
+show
+remove_all_by_position
+show
+

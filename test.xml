@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehiclesList>
+    <vehicle id="1">
+        <name>Name</name>
+        <coordinates>
+            <x>10.2</x>
+            <y>1</y>
+        </coordinates>
+        <creationDate>2023-04-20T16:05:13.699+03:00</creationDate>
+        <enginePower>2</enginePower>
+        <capacity>3</capacity>
+        <distanceTravelled>4</distanceTravelled>
+        <type>PLANE</type>
+    </vehicle>
+    <vehicle id="2">
+        <name>Name2</name>
+        <coordinates>
+            <x>1.0</x>
+            <y>2</y>
+        </coordinates>
+        <creationDate>2023-04-20T16:05:13.699+03:00</creationDate>
+        <enginePower>10</enginePower>
+        <capacity>8</capacity>
+        <distanceTravelled>0</distanceTravelled>
+        <type>SPACESHIP</type>
+    </vehicle>
+    <vehicle id="0">
+        <name>123321</name>
+        <coordinates>
+            <x>123.0</x>
+            <y>12</y>
+        </coordinates>
+        <creationDate>2023-04-20T16:37:16.934+03:00</creationDate>
+        <enginePower>321321</enginePower>
+        <capacity>321</capacity>
+        <distanceTravelled>231</distanceTravelled>
+    </vehicle>
+</vehiclesList>
